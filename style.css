@@ -1,0 +1,66 @@
+body{
+  font-family:"Cosmic sans", Helvetica,
+sans-serif;
+  text-align:center;
+  color: #999;
+  background-color: #000;
+}
+#main{
+  margin:30px, auto;
+  font-size: 20px
+}
+#title{
+  padding: 30px;
+  margin-bottom:-20px;
+  font-family: Cosmic Sans;
+  font-size: 80px;
+}
+#img-div{
+  margin:0px;
+  width:100%;
+}
+#img{
+  max-width:100%;
+  display:block;
+  height:auto;
+  margin:auto;
+}
+#image-caption{
+  font-size:10px;
+  margin-bottom:100px;
+}
+#headline{
+  font-size:28px;
+  margin-bottom: 40px;
+  font-family:Comic Sans MS;
+}
+li{
+  margin-bottom:10px;
+  margin-left:100px;
+  margin-right:70px;
+  text-align:left;
+  font-family:Comic Sans MS;
+}
+#conclusion-title{
+  font-size:28px;
+  margin-bottom: 40px;
+  font-family:Comic Sans MS;
+}
+#conclusion-summary{
+  margin-bottom:60px;
+  margin-left:100px;
+  margin-right:70px;
+  text-align:left;
+  font-family:Comic Sans MS;
+  text-indent:35px;
+  font-size:20px;
+}
+#tribute-link{
+ color:#2B65EC
+}
+#footer{
+  text-align:left;
+  margin-left:100px;
+  margin-right:70px;
+  text-indent:35px;
+ }
